@@ -6,7 +6,7 @@
 
 AutoSpec AI is a powerful tool that transforms your raw project ideas into well-structured technical specifications. Simply describe your concept in plain English, and watch as it generates detailed functional and non-functional requirements, API endpoints, database schemas, and more! 📝
 
-**Live Demo:** [**Deployed Project Link**](http://your-deployed-link-here.com) 🌐
+**Live Demo:** [**Deployed Project Link**](https://pradocgenerator.streamlit.app/) 🌐
 
 ## 📋 Features
 
